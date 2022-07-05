@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikumsaufgabe Black Jack", "Praktikumsaufgabe Black Jack.csproj", "{C10F4920-9876-4AFA-8A54-065DD73CB245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10F4920-9876-4AFA-8A54-065DD73CB245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10F4920-9876-4AFA-8A54-065DD73CB245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10F4920-9876-4AFA-8A54-065DD73CB245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10F4920-9876-4AFA-8A54-065DD73CB245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7F87D9-70B8-44D0-BA26-05B6D9EF9A84}
+	EndGlobalSection
+EndGlobal
