@@ -1,0 +1,13 @@
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.csprojAssemblyReference.cache
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.AssemblyInfoInputs.cache
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.AssemblyInfo.cs
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.csproj.CoreCompileInputs.cache
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.exe
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.deps.json
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.runtimeconfig.json
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.runtimeconfig.dev.json
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.dll
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\bin\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.pdb
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.dll
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.pdb
+C:\Users\silen\Desktop\Praktikumsaufgabe 5 Felder\Praktikumsaufgabe Felder\obj\Debug\netcoreapp3.1\Praktikumsaufgabe Felder.genruntimeconfig.cache
